@@ -1,0 +1,6 @@
+name: TrospySMP-invisfix
+main: hyro.lib.Main
+version: 1.0.0
+authors:
+  - Hyro
+description: For TrospySMP
